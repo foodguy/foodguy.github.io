@@ -1,1 +1,2 @@
-const userInput = prompt("Please enter your characters name:");
+const charName = prompt("Please enter your characters name:");
+console.log(charName)
