@@ -1,3 +1,2 @@
-# foodguy.github.io
-# gonna make brave zenith char builer
-# what if I change this
+# website for stuff I want to do
+# currently trying to make a brave zenith char builder
